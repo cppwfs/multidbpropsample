@@ -1,7 +1,7 @@
 = Multiple DataSources Sample Task
 
 This is a Spring Boot application that utilizes two DataSources and properties and explicitly configures
-which one to be used for the Spring Cloud Task repository.  This integrates with Data Flow.
+which one to be used for the Spring Cloud Task repository.  This is demoable with Data Flow.
 
 == Requirements:
 
