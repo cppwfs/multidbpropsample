@@ -27,3 +27,6 @@ $ mvn clean package -DskipTests
 ----
 $ java -jar target/multiple-datasources-2.3.0-SNAPSHOT.jar
 ----
+
+
+NOTE: Add profile to original demo to use either dataflow or the default local!
